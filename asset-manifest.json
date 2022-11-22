@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/farizalobby/static/css/main.28e95898.css",
-    "main.js": "/farizalobby/static/js/main.b1c53d64.js",
+    "main.js": "/farizalobby/static/js/main.fc66f4aa.js",
     "static/js/787.fb771931.chunk.js": "/farizalobby/static/js/787.fb771931.chunk.js",
     "static/media/header.png": "/farizalobby/static/media/header.a432dfc8a759e09a657e.png",
     "static/media/color-sharp.png": "/farizalobby/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/farizalobby/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/farizalobby/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/image2.jpg": "/farizalobby/static/media/image2.55aa673d0947bf652695.jpg",
+    "static/media/image1.jpg": "/farizalobby/static/media/image1.e75a5f7dc36145668790.jpg",
     "static/media/CentraNo2-Bold.ttf": "/farizalobby/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/farizalobby/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/farizalobby/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/farizalobby/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/header2.png": "/farizalobby/static/media/header2.e46ac1d838c3d38872d9.png",
     "static/media/meter.png": "/farizalobby/static/media/meter.e46ac1d838c3d38872d9.png",
     "static/media/logo.png": "/farizalobby/static/media/logo.fcc76959cc807d6708d9.png",
     "static/media/revicons.eot": "/farizalobby/static/media/revicons.a77de540a38981833f9e.eot",
@@ -25,11 +26,11 @@
     "static/media/arrow1.svg": "/farizalobby/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/farizalobby/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.28e95898.css.map": "/farizalobby/static/css/main.28e95898.css.map",
-    "main.b1c53d64.js.map": "/farizalobby/static/js/main.b1c53d64.js.map",
+    "main.fc66f4aa.js.map": "/farizalobby/static/js/main.fc66f4aa.js.map",
     "787.fb771931.chunk.js.map": "/farizalobby/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28e95898.css",
-    "static/js/main.b1c53d64.js"
+    "static/js/main.fc66f4aa.js"
   ]
 }
